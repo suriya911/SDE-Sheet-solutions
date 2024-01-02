@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 
 public class second_smallest_largest {
     public static int second_largest(int[] arr) {
